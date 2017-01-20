@@ -11,11 +11,11 @@ import { MembersComponent } from './members/members.component';
 
 
 export const firebaseConfig = {
-  apiKey: 'AIzaSyDif4_SXRy3TuQfdcYeqt8W8nl4wM6UDtQ',
-  authDomain: 'ombak-divers.firebaseapp.com',
-  databaseURL: 'https://ombak-divers.firebaseio.com',
-  storageBucket: 'ombak-divers.appspot.com',
-  messagingSenderId: '57395446739'
+  apiKey: 'your_apikey',
+  authDomain: 'your authDomain',
+  databaseURL: 'your_databaseURL',
+  storageBucket: 'your_storageBucket',
+  messagingSenderId: 'your_messagingSenderId'
 };
 
 @NgModule({
